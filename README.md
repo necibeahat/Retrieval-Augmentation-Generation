@@ -14,3 +14,5 @@ This notebook is a simple way to implement the retrieval augmentation generation
 - [Llamafile](https://github.com/Mozilla-Ocho/llamafile): Run LLM with a single file
 - [OpenAI](https://pypi.org/project/openai/): connect to LLM from openAI
 
+## Data 
+
