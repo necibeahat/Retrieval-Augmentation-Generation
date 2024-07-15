@@ -14,10 +14,6 @@ More specifically the process;
 
 ![alt text](images/RAG_architecture.jpg)
 
-## RAG Applications in text generation
-
-
-
 ## Installation 
 
 ```python3 -m venv .venv ```
@@ -32,9 +28,13 @@ More specifically the process;
 - [OpenAI](https://pypi.org/project/openai/): connect to LLM from openAI
 
 ## Data 
+I used the publicly available [Coronavirus Clinical Trials Dataset](https://www.kaggle.com/datasets/zohrarezgui/coronavirus-clinical-trials-dataset) from Kaggle. The dataset includes exclusion and inclusion criteria for covid-19 clinical trials that were downloaded from ct.gov. 
 
 ## Large and Small Language Models 
+The __Retriever__ is using the [multi-qa-MiniLM-L6-cos-v1](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html) small language model. This model is great for diverse use-cases and is trained on a dataset of over 1 billion training pairs. 
+
+The __Generator__ is using Phi-2 model from HuggingFace. There is a great blog in Microsoft Research about [The pusrising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
 ## Acknowledgement 
-
+I completed the course [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/introduction-to-rag/home/) from Duke University through Coursera. The course covered the basics of RAGs and proposed an SLM and LLM for the RAG systems. This project takes the fundemental idea of implementing a retriver and generator model from the course, but further customises it. 
 
