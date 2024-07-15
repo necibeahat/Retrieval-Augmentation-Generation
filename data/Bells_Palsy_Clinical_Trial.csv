@@ -1,0 +1,495 @@
+Patient ID,Sex,Age,Baseline Score on House–Brackmann scale,Time between onset of symptoms and start of treatment,Treatment Group,Received Prednisolone,Received Acyclovir,3-Month Score on House–Brackmann scale,Full Recovery in 3 Months,9-Month Score on House–Brackmann scale,Full Recovery in 9 Months
+1,Female,77,6,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,2,No
+2,Female,61,6,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+3,Female,46,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+4,Female,46,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+5,Female,42,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+6,Female,50,4,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+7,Male,37,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+8,Female,28,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+9,Female,41,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+10,Male,36,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+11,Female,41,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+12,Male,18,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+13,Female,30,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+14,Male,34,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+15,Male,52,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+16,Male,32,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+17,Male,55,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+18,Female,43,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+19,Female,33,4,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+20,Female,37,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+21,Male,32,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+22,Male,37,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+23,Female,32,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+24,Female,61,4,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+25,Male,63,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+26,Male,64,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+27,Female,47,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+28,Male,68,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+29,Female,36,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+30,Female,45,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+31,Male,36,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+32,Female,35,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+33,Male,58,3,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+34,Male,68,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+35,Male,24,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+36,Male,53,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+37,Female,69,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+38,Male,69,6,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+39,Female,68,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+40,Male,39,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,2,No
+41,Male,46,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+42,Male,36,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+43,Male,60,6,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+44,Female,43,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+45,Male,34,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+46,Male,23,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+47,Male,19,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+48,Female,61,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+49,Female,27,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+50,Female,72,6,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+51,Male,44,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+52,Male,18,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+53,Male,67,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,3,No,3,No
+54,Male,45,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+55,Male,66,3,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+56,Female,62,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+57,Male,32,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+58,Male,55,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,2,No
+59,Male,61,4,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+60,Male,70,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+61,Female,20,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+62,Male,38,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+63,Male,29,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+64,Female,46,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+65,Male,42,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+66,Female,47,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+67,Female,76,3,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+68,Female,36,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+69,Female,86,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+70,Male,67,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+71,Male,31,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+72,Male,27,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+73,Male,37,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+74,Female,34,6,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+75,Female,45,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+76,Male,70,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+77,Male,48,6,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+78,Female,41,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+79,Male,43,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+80,Male,24,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+81,Female,34,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+82,Female,28,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+83,Male,30,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+84,Male,42,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+85,Male,44,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+86,Male,24,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+87,Male,33,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+88,Female,40,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+89,Female,42,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+90,Female,25,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+91,Female,34,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+92,Female,56,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+93,Female,30,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+94,Female,40,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+95,Female,36,4,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+96,Male,55,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+97,Male,35,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+98,Male,44,4,Within 24 hr,Prednisolone–Placebo,Yes,No,3,No,2,No
+99,Male,72,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+100,Male,63,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+101,Female,59,2,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+102,Male,53,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+103,Male,49,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+104,Female,33,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+105,Male,48,5,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,2,No,2,No
+106,Female,52,5,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,2,No
+107,Male,45,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+108,Female,36,3,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+109,Male,35,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+110,Male,46,2,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+111,Male,53,4,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+112,Female,34,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+113,Female,26,3,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+114,Male,31,4,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+115,Male,33,5,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+116,Male,43,3,Within 24 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+117,Female,48,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+118,Female,61,2,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+119,Female,40,3,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+120,Male,26,4,>48 to ≤72 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+121,Male,51,4,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+122,Male,42,5,>24 to ≤48 hr,Prednisolone–Placebo,Yes,No,1,Yes,1,Yes
+123,Female,52,4,Within 24 hr,Prednisolone–Placebo,Yes,No,2,No,1,Yes
+124,Male,38,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+125,Male,25,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+126,Female,41,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+127,Female,40,3,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+128,Female,62,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+129,Female,33,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+130,Male,62,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+131,Male,31,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+132,Male,42,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,3,No,3,No
+133,Male,41,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+134,Female,52,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+135,Male,35,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+136,Male,37,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+137,Female,51,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+138,Male,38,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+139,Male,35,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+140,Male,51,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+141,Female,57,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+142,Male,46,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+143,Female,52,6,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+144,Female,43,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+145,Male,67,6,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,3,No,3,No
+146,Female,30,3,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+147,Male,39,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+148,Male,45,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+149,Female,38,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+150,Male,47,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+151,Female,20,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+152,Male,38,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+153,Female,16,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+154,Female,29,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+155,Male,33,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+156,Female,50,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+157,Male,26,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+158,Female,37,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+159,Male,40,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+160,Male,31,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+161,Female,58,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+162,Female,46,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+163,Male,53,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+164,Female,42,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+165,Male,56,4,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+166,Female,26,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+167,Male,36,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+168,Male,60,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+169,Male,62,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+170,Male,53,4,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+171,Female,66,6,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+172,Female,41,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+173,Female,22,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+174,Male,35,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+175,Female,51,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+176,Male,39,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+177,Male,41,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+178,Female,23,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+179,Female,82,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+180,Male,63,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+181,Male,28,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+182,Female,44,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+183,Female,31,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+184,Male,58,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+185,Female,46,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+186,Female,48,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+187,Female,66,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+188,Male,51,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,3,No,1,Yes
+189,Female,37,6,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+190,Female,29,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+191,Female,45,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+192,Male,45,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+193,Male,21,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+194,Female,59,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+195,Male,64,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+196,Female,28,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+197,Female,34,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+198,Female,52,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+199,Male,42,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+200,Male,43,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+201,Male,48,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+202,Male,63,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+203,Female,51,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+204,Male,68,6,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,3,No,2,No
+205,Female,50,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+206,Male,19,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+207,Female,55,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+208,Female,27,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+209,Male,64,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+210,Male,49,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+211,Male,46,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+212,Male,58,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+213,Female,44,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+214,Male,31,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+215,Male,46,2,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+216,Male,46,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+217,Male,34,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+218,Male,47,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+219,Female,69,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+220,Male,45,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+221,Male,41,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,2,No
+222,Male,29,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+223,Female,30,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+224,Female,34,2,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+225,Male,28,4,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+226,Female,67,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+227,Male,51,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+228,Female,62,3,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+229,Female,56,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+230,Male,50,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+231,Male,17,5,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+232,Male,59,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+233,Male,45,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+234,Female,50,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+235,Female,60,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+236,Female,27,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+237,Female,57,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+238,Male,60,3,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,2,No,1,Yes
+239,Female,43,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+240,Female,64,4,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+241,Female,68,5,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+242,Male,37,4,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+243,Female,32,3,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+244,Female,41,2,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+245,Female,54,6,>24 to ≤48 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+246,Female,47,3,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+247,Male,69,5,Within 24 hr,Acyclovir–Prednisolone,Yes,Yes,3,No,1,Yes
+248,Male,38,3,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+249,Female,48,5,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+250,Female,26,2,>48 to ≤72 hr,Acyclovir–Prednisolone,Yes,Yes,1,Yes,1,Yes
+251,Male,22,2,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+252,Female,63,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+253,Male,18,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+254,Female,19,2,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+255,Female,36,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+256,Female,27,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+257,Female,58,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+258,Male,25,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+259,Female,52,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+260,Female,56,4,Within 24 hr,Acyclovir–Placebo,No,Yes,3,No,2,No
+261,Female,38,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+262,Male,47,4,Unknown,Acyclovir–Placebo,No,Yes,2,No,2,No
+263,Male,57,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+264,Female,26,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+265,Male,54,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+266,Female,56,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+267,Male,49,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+268,Male,58,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+269,Female,54,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+270,Female,34,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+271,Male,57,2,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+272,Female,35,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+273,Female,59,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+274,Female,43,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+275,Male,50,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+276,Female,30,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+277,Male,56,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+278,Male,22,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+279,Male,20,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+280,Male,21,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+281,Male,48,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+282,Female,40,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+283,Female,34,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+284,Male,41,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+285,Male,26,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+286,Female,52,5,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+287,Male,56,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+288,Female,58,2,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+289,Female,26,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+290,Male,68,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+291,Female,40,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+292,Female,34,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+293,Female,50,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+294,Female,24,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,3,No,3,No
+295,Male,44,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+296,Female,42,5,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+297,Female,36,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+298,Male,41,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+299,Male,35,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+300,Female,40,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+301,Male,65,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+302,Male,58,6,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+303,Male,77,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+304,Female,53,4,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+305,Male,60,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+306,Male,43,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+307,Male,56,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+308,Male,31,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+309,Female,60,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+310,Male,35,2,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+311,Female,35,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+312,Male,28,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+313,Male,74,6,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,4,No,4,No
+314,Male,51,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+315,Female,42,6,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+316,Male,72,5,Within 24 hr,Acyclovir–Placebo,No,Yes,4,No,4,No
+317,Male,51,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+318,Male,54,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+319,Female,36,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+320,Male,83,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+321,Male,53,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+322,Male,51,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+323,Male,36,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+324,Male,46,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+325,Female,39,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+326,Male,43,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+327,Female,41,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+328,Male,66,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+329,Female,45,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+330,Male,29,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+331,Female,80,6,Within 24 hr,Acyclovir–Placebo,No,Yes,3,No,3,No
+332,Female,84,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+333,Male,47,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+334,Male,34,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+335,Male,46,3,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+336,Female,50,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+337,Male,32,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+338,Male,36,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,3,No,1,Yes
+339,Male,48,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,3,No,1,Yes
+340,Male,40,3,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+341,Female,64,5,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+342,Female,50,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+343,Female,33,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+344,Male,30,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+345,Female,28,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+346,Male,75,6,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,3,No,3,No
+347,Male,56,3,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+348,Male,47,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+349,Female,49,3,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+350,Male,25,3,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+351,Female,48,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+352,Female,76,6,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+353,Female,42,4,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+354,Male,17,5,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+355,Female,45,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+356,Female,53,6,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+357,Male,34,5,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+358,Female,42,4,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+359,Female,32,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+360,Male,49,5,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+361,Female,56,4,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+362,Female,21,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+363,Male,36,3,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+364,Male,29,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+365,Female,40,5,Within 24 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+366,Female,47,3,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,3,No,1,Yes
+367,Male,36,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+368,Female,47,6,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+369,Male,16,2,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+370,Male,53,4,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
+371,Male,44,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
+372,Male,35,6,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
+373,Male,59,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+374,Female,43,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+375,Female,65,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+376,Female,48,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+377,Male,49,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+378,Male,60,2,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+379,Female,60,3,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+380,Female,49,2,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+381,Female,25,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+382,Female,58,3,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,3,No
+383,Male,34,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+384,Female,55,2,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+385,Male,42,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+386,Male,42,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+387,Female,83,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+388,Male,47,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+389,Male,58,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+390,Male,34,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+391,Female,19,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+392,Female,24,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+393,Female,20,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+394,Female,55,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,1,Yes
+395,Male,27,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+396,Female,48,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+397,Male,54,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+398,Male,44,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+399,Female,54,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+400,Female,19,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+401,Male,41,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+402,Female,49,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+403,Male,73,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+404,Female,44,6,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+405,Female,29,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+406,Female,45,5,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+407,Female,49,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+408,Female,41,6,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+409,Female,58,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+410,Female,20,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+411,Male,51,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+412,Male,16,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+413,Male,29,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+414,Male,33,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+415,Male,70,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+416,Female,45,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+417,Female,43,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+418,Male,79,5,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+419,Male,30,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+420,Female,55,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+421,Female,55,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+422,Male,48,4,>48 to ≤72 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+423,Female,56,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+424,Male,47,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+425,Male,27,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+426,Female,29,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+427,Male,36,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+428,Male,49,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+429,Female,31,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+430,Female,38,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+431,Male,45,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+432,Female,42,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+433,Male,25,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+434,Male,42,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+435,Male,71,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+436,Male,38,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+437,Female,73,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+438,Female,23,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+439,Female,66,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+440,Female,66,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+441,Female,33,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+442,Male,68,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+443,Female,28,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+444,Female,46,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+445,Male,89,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+446,Female,34,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+447,Female,40,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+448,Male,55,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+449,Female,52,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+450,Male,65,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+451,Male,45,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+452,Male,50,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+453,Male,43,6,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+454,Male,42,4,Within 24 hr,Placebo–Placebo,No,No,3,No,2,No
+455,Male,60,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+456,Female,51,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+457,Male,48,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+458,Female,38,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+459,Male,55,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,2,No
+460,Female,29,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+461,Male,39,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+462,Female,63,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+463,Female,36,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+464,Male,54,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+465,Female,25,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+466,Female,42,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+467,Male,62,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+468,Female,44,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+469,Female,61,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+470,Female,90,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+471,Male,50,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+472,Female,44,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+473,Female,34,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+474,Female,50,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+475,Female,41,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+476,Male,32,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+477,Male,24,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+478,Female,54,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+479,Male,22,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+480,Male,20,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+481,Male,29,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+482,Female,45,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+483,Female,37,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+484,Male,77,6,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
+485,Female,60,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+486,Female,53,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+487,Male,60,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+488,Female,40,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+489,Male,34,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+490,Male,40,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+491,Male,37,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+492,Female,56,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+493,Male,33,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+494,Female,34,5,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
