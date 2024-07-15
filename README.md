@@ -1,13 +1,28 @@
 # Retrieval Augmentation Generation (RAG)
-This notebook shows a simple way to add your custom data to LLMs. This is called RAGs.  
+Retrieval augmented generation (RAG) model are a simple way to acc a context to the LLM (pre-trained large language models). They can help improve the quality of generated text by providing LLMs with context that comes from your own custom data. Using RAG can lead to higher accuracy and better robustness in your text generation system. 
 
-customise your search using is a simple way to implement the retrieval augmentation generation (RAG) with a custom data. 
+In this notebook, I am using Covid-19 Clinical Trial data to enhance the relevance and quality of the generated text. 
 
->> Why it is important to be ablet o add acustom data??
+## How do RAGs work
+Typically RAG consist of two core modules: the retriever and the generator. The retriever searches for relevant information from the provided data. The generator produces the required content.
+
+More specifically the process;
+1. take the input query
+2. using a sentence transformer (small language model) search for relevant information. Transformer models are one of the best performing in NLP.
+3. Take the top-k (top 3 in this notebook) results
+4. Pass the output of the query, together with the original query to the generator. 
+
+![alt text](images/RAG_architecture.jpg)
+
+## RAG Applications in text generation
+
+
 
 ## Installation 
 
-```python3 -m venv .venv source .venv/bin/activate .venv/bin/pip install -r requirements.txt ```
+```python3 -m venv .venv ```
+```source .venv/bin/activate ``` 
+```.venv/bin/pip install -r requirements.txt ```
 
 ## Libraries
 - [Pandas](https://pandas.pydata.org/): data manipulation
@@ -17,4 +32,9 @@ customise your search using is a simple way to implement the retrieval augmentat
 - [OpenAI](https://pypi.org/project/openai/): connect to LLM from openAI
 
 ## Data 
+
+## Large and Small Language Models 
+
+## Acknowledgement 
+
 
