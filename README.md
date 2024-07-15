@@ -1,5 +1,7 @@
-# Retrieval-Generation-Augmentation
-This notebook is a simple way to implement the retrieval augmentation generation (RAG) with a custom data. 
+# Retrieval Augmentation Generation (RAG)
+This notebook shows a simple way to add your custom data to LLMs. This is called RAGs.  
+
+customise your search using is a simple way to implement the retrieval augmentation generation (RAG) with a custom data. 
 
 >> Why it is important to be ablet o add acustom data??
 
