@@ -1,5 +1,5 @@
-# Retrieval Augmentation Generation (RAG)
-Retrieval augmented generation (RAG) model are a smart way to add a context to the LLM (pre-trained large language models). They can help improve the quality of generated text by providing LLMs with context that comes from your own custom data. Using RAG leads to higher accuracy and better robustness in your text generation system. 
+# Retrieval-Augmented Generation (RAG)
+Retrieval-augmented generation (RAG) models are a smart way to add a context to the LLM (pre-trained large language models). They can help improve the quality of generated text by providing LLMs with context that comes from your own custom data. Using RAG leads to higher accuracy and better robustness in your text generation system. 
 
 In this notebook, I am using Covid-19 Clinical Trial data to enhance the relevance and quality of the generated text. 
 
@@ -34,7 +34,4 @@ I used the publicly available [Coronavirus Clinical Trials Dataset](https://www.
 The __Retriever__ is using the [multi-qa-MiniLM-L6-cos-v1](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html) small language model. This model is great for diverse use-cases and is trained on a dataset of over 1 billion training pairs. 
 
 The __Generator__ is using Phi-2 model from HuggingFace. There is a great blog in Microsoft Research about [The pusrising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
-
-## Acknowledgement 
-I completed the course [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/introduction-to-rag/home/) from Duke University through Coursera. The course covered the basics of RAGs and proposed an SLM and LLM for the RAG systems. While I am using the same LLM and SLM proposed in the course, the rest of the notebook is independent and my own. 
 
